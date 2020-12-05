@@ -2,15 +2,15 @@
 
 ### Public IA-64 documentation page
 
-The Itanium ISA finally gets stable (development is stopped).
-Manufacturing and shipping Itaniums gets stopped in 2022.  
-(See "Public statements")
+The Itanium ISA finally gets stable: Intel stopped the development even before 2019.
+Manufacturing and shipping of Itaniums stops in 2022.  
+(See "Roadmap statements")
 
 Thus I finally decided to collect documentation, references (and other information sources) about this interesting architecture.
 
 Feel free to use and contribute.
 
-### Public statements
+### Roadmap statements
 
 AnandTech about Itanium CPUs:
 
