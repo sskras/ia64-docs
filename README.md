@@ -1,7 +1,5 @@
 # ia64-docs
 
-### Public IA-64 documentation page
-
 The Itanium ISA finally gets stable: Intel stopped the development even before 2019.
 Manufacturing and shipping of Itaniums stops in 2022.  
 (See "Roadmap statements")
