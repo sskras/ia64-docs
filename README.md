@@ -12,7 +12,7 @@ Feel free to use and contribute.
 
 ### Roadmap statements
 
-AnandTech about Itanium CPUs:
+AnandTech writes:
 
 > ### [Intel to Discontinue Itanium 9700 ‘Kittson’ Processor, the Last of the Itaniums](https://www.anandtech.com/show/13924/intel-to-discontinue-itanium-9700-kittson-processor-the-last-itaniums)
 > by [Anton Shilov](https://www.anandtech.com/Author/191) on **January 31, 2019** 6:30 PM EST
