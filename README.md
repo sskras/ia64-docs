@@ -2,6 +2,16 @@
 
 ### Public IA-64 documentation page
 
+The Itanium ISA finally gets stable (development is stopped).
+Manufacturing and shipping Itaniums gets stopped in 2022.  
+(See **Public statements** below)
+
+Thus I finally decided to collect documentation about this interesting architecture.
+
+Feel free to use and contribute.
+
+### Public statements
+
 AnandTech about Itanium CPUs:
 
 > ### [Intel to Discontinue Itanium 9700 ‘Kittson’ Processor, the Last of the Itaniums](https://www.anandtech.com/show/13924/intel-to-discontinue-itanium-9700-kittson-processor-the-last-itaniums)
@@ -20,12 +30,3 @@ AnandTech about Itanium CPUs:
 > it certainly means that **this is the end of the road for the whole Itanium project**, both for HPE **and Intel**. 
 > The former has been offering Xeon-based NonStop and Integrity servers for years now, 
 > whereas the latter effectively **ceased development of new CPUs featuring the <ins>IA-64</ins> ISA earlier this decade**. 
-
-### Motivation.
-
-The Itanium ISA finally gets stable (development is stopped).
-Manufacturing and shipping Itaniums gets stopped in 2022.
-
-Thus I finally decided to collect documentation about this interesting architecture.
-
-Feel free to contribute.
